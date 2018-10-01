@@ -5,7 +5,7 @@
 ``` bash
 $ make build
 
-$ docker-compose run nuxt npx create-nuxt-app
+$ docker-compose run --rm nuxt npx create-nuxt-app
 
 $ make run
 ```
